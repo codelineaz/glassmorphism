@@ -35,6 +35,8 @@ body::after{
 
 }
 .container{
+    padding-top: 100px;
+    padding-left:90px;
     position: relative;
     display: flex;
     justify-content: center;
@@ -44,6 +46,7 @@ body::after{
     z-index: 1;
 }
 .container .card{
+    
     position: relative;
     width: 280px;
     height: 400px;
